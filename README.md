@@ -11,3 +11,8 @@
     Wuhan University&emsp;KAUST&emsp;CUHK-Shenzhen&emsp;Huawei Zurich Research Center
   </p>
 </p>
+
+## 🔥 News
+- [2024-04] We will release our code in the next few months. Stay tuned.
+- [2024-02] FreePoint is accepted by CVPR 2024. Thanks for the recognition!
+
