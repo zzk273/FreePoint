@@ -1,0 +1,5 @@
+# @package _group_
+_target_: models.matcher_freepoint.HungarianMatcher
+cost_mask: 5.
+cost_dice: 2.
+num_points: -1
